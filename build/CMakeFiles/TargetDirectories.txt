@@ -1,0 +1,6 @@
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/CMakeFiles/LEDadjustment.dir
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/CMakeFiles/edit_cache.dir
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/CMakeFiles/rebuild_cache.dir
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/jacob-jelovich/Documents/github/ECE4910_LEDadjustment_STM32/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
